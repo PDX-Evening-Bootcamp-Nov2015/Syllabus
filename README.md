@@ -117,3 +117,7 @@ Here are some additional free resources that will help reinforce the topics that
 # Articles
 
 * http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+
+# Add Your Info
+
+* https://pdxcodeguild.com/studentinfo/
