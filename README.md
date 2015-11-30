@@ -53,7 +53,7 @@ If something happens that makes you feel uncomfortable involving a classmate, in
 
 ### Hygiene
 
-Due to the collaborative nature of this course please take appropriate measures to make sure you are plesant to work with.
+Due to the collaborative nature of this course please take appropriate measures to make sure you are pleasant to work with.
 
 ## Additional Resources
 
